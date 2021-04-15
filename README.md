@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lemastjl
+- 👋 Hi, I’m Jesse LeMaster 
 - 👀 I’m interested in ... DevSecOps
 - 🌱 I’m currently learning ... Python 3
 - 💞️ I’m looking to collaborate on ... Python 3
